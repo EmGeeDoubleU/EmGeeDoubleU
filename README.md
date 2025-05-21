@@ -2,7 +2,8 @@
 
 🎓 **Software Engineering @ Drexel University**  
 💻 **Builder | Engineer | Entrepreneur**  
-📍 Based in Philadelphia, PA
+📍 Based in Philadelphia, PA  
+🌐 [michaelgw.com](https://michaelgw.com)
 
 ---
 
@@ -19,22 +20,30 @@
 
 ---
 
-### 💡 Tech Skills
+### 💼 Skills
 
-`Python` `C` `Java` `SQL` `Linux` `Git` `React` `HTML`  
-Data structures • Systems design • Cloud platforms • Startups • VR development (Unity)
+`Python` `Java` `C` `SQL` `React` `Git` `HTML`  
+Full-stack development • Data structures • Systems design • Technical leadership • Startup operations
 
 ---
 
-### 🌐 Let's Connect
+### 📊 GitHub Stats
 
-📬 Email: [mwarshowsky71@gmail.com](mailto:mwarshowsky71@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/michael-warshowsky)  
-📁 [Resume (PDF)](https://github.com/EmGeeDoubleU/EmGeeDoubleU/raw/main/Michael-Warshowsky-Resume.pdf)
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmGeeDoubleU&show_icons=true&theme=dark&rank_icon=percentile&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmGeeDoubleU&layout=compact&theme=dark)
+
+---
+
+### 📬 Contact
+
+- 💼 **Open To Job Opportunities**
+- 📧 michaelg.warshowsky@gmail.com
+- 🌐 [michaelgw.com](https://michaelgw.com)
 
 ---
 
 ### 🧠 Fun Fact
 
-I'm fluent in startup chaos and conversational Hebrew.
+I like board games, cooking, and reading.
 
