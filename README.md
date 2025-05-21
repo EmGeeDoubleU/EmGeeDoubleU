@@ -10,7 +10,7 @@
 ### 🚀 Projects & Work
 
 - 🛡️ **WithBelay** (Founder, Former CEO, Board Member)  
-  Raised $6M • Built equity depreciation insurance products • Designed cloud infrastructure • Led 15+ employees across 4 locations
+  Raised $6M • Built equity depreciation insurance products • Designed core infrastructure • Led 15+ employees across 4 locations
 
 - 🧠 **Children’s Hospital of Philadelphia**  
   Data Analyst: Used MATLAB to analyze large datasets and generate insights for clinical research
@@ -24,14 +24,6 @@
 
 `Python` `Java` `C` `SQL` `React` `Git` `HTML`  
 Full-stack development • Data structures • Systems design • Technical leadership • Startup operations
-
----
-
-### 📊 GitHub Stats
-
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmGeeDoubleU&show_icons=true&theme=dark&rank_icon=percentile&hide=contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmGeeDoubleU&layout=compact&theme=dark)
 
 ---
 
