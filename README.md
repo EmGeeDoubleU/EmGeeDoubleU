@@ -55,7 +55,7 @@
   <a href="https://michaelgw.com" target="_blank">
     <img src="https://img.shields.io/badge/michaelgw.com-9146FF?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/michael-warshowsky" target="_blank">
+  <a href="https://www.linkedin.com/in/mwarshowksy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:michaelg.warshowsky@gmail.com">
