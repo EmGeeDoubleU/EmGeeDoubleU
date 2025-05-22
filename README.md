@@ -49,16 +49,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EmGeeDoubleU&theme=dark&hide_border=true" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=EmGeeDoubleU&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Get Connected
 
 <p>
