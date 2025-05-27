@@ -13,7 +13,7 @@
 - 💻 Working on **open-source** and personal projects
 - 🌱 Currently exploring **scalable systems**, **web technologies**, and **LLMs**
 - 👯 Open to **jobs or collaborations** with smart teams
-- ⚡ Fun fact: Im a huge history & mesuem nerd  
+- ⚡ Fun fact: Im a huge history & museum nerd  
 - 🌐 Check out [michaelgw.com](https://michaelgw.com)
 
 ---
