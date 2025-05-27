@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Warshowsky</h1>
-<h3 align="center">Software Engineering @ Drexel | Full-Stack Developer | Startup Builder</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Startup Builder</h3>
 
 <br />
 
