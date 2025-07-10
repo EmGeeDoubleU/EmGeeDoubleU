@@ -68,4 +68,9 @@
     <img src="https://img.shields.io/badge/michaelg.warshowsky@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Profile Views
+
 ![Profile views](https://komarev.com/ghpvc/?username=EmGeeDoubleU&color=blue)
