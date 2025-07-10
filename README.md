@@ -71,6 +71,6 @@
 
 ---
 
-### 📊 GitHub Profile Views
+### 
 
 ![Profile views](https://komarev.com/ghpvc/?username=EmGeeDoubleU&color=blue)
