@@ -7,18 +7,18 @@
   <img align="right" alt="Michael's face" width="300" src="./face.png" />
 </div>
 
-### 🤖 About Me
+### About Me
 
-- 🎓 Finishing up my degree at **Drexel University**
-- 💻 Working on **open-source** and personal projects
-- 🌱 Currently exploring **scalable systems**, **web technologies**, and **LLMs**
-- 👯 Open to **jobs or collaborations** with smart teams
-- ⚡ Fun fact: Im a huge history & museum nerd  
-- 🌐 Check out [michaelgw.com](https://michaelgw.com)
+-  Finishing up my degree at **Drexel University**
+-  Working on **open-source** and personal projects
+-  Currently exploring **scalable systems**, **web technologies**, and **LLMs**
+-  Open to **jobs or collaborations** with smart teams
+-  Fun fact: Im a huge history & museum nerd  
+-  Check out [michaelgw.com](https://michaelgw.com)
 
 ---
 
-### 🛠️ Technologies and Tools I Use
+###  Technologies and Tools I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -42,15 +42,15 @@
 
 ---
 
-### 💼 Recent Work Experience
+###  Recent Work Experience
 
-- 🛡️ **WithBelay** (Founder, Former CEO, Board Member)  
+-  **WithBelay** (Founder, Former CEO, Board Member)  
   Raised $6M • Built equity depreciation insurance products • Designed core infrastructure • Led 15+ employees across 4 locations
 
-- 🧠 **Children’s Hospital of Philadelphia**  
+-  **Children’s Hospital of Philadelphia**  
   *Data Analyst*: Used MATLAB to analyze large datasets and generate insights for clinical research
 
-- 📘 **CourseDog**  
+-  **CourseDog**  
   Co-developed academic scheduling algorithms and Python data integration pipelines
 
 ---
